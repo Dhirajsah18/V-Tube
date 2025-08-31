@@ -10,7 +10,7 @@
   "keywords": [
     "nodejs",
     "express",
-    "moongoose",
+  "mongoose",
     "backend"
   ],
   "author": "Dhiraj",
